@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<users>
+	<user login="reader" password="1234" email="" />
+	<user login="lecteur" password="1234"/>
+<user login="" password=""/>
+</users>
